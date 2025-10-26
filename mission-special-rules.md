@@ -3,6 +3,22 @@
 These special rules supplement the rules in the HH3e rulebook for added
 flavour in certain missions.
 
+## Obstacles
+
+**Important locations can be protected with the use of razorwire and
+tank traps.**
+
+If a mission uses the Obstacles special rule the defender has time to
+place certain linear defences to slow down the enemy. Unless a mission
+specifies otherwise, obstacles are deployed in the same manner and at
+the same time as Fortifications.
+
+The defender gains 1D3+3 sections of razorwire and 1D3+3 sections of
+tank traps. Razorwire is treated as a 1x6" piece of area terrain that
+count as Difficult and Dangerous Terrain to all units that
+are not vehicles. Tank traps are also 1x6" pieces of area terrain that
+afford Light Cover and count as Impassable Terrain to all vehicles.
+
 ## Preliminary bombardment
 
 **Long-range artillery attempts to suppress the enemy before the battle.**
