@@ -57,9 +57,14 @@ number of additional models as sentries alongside whatever units from their
 army they are allowed to deploy. The number and type of models depends on
 the defender's primary faction:
 
-- **Legio Custodes:** 3 Custodian Guard
-- **Legiones Astartes:** 6 Tactical Marines
-- **Solar Auxilia:** 10 Auxilia
+- **Anathema Psykana:** 6 Null Sisters with bolters
+- **Imperialis Militia:** 10 Militia Infantry with militia rifles and bayonets
+- **Legio Custodes:** 2 Custodian Guard with guardian spears
+- **Legiones Astartes:** 6 Tactical Marines with bolters
+- **Solar Auxilia:** 10 Auxilia with lasrifles and bayonets
+
+Daemons of the Ruinstorm may never be the defenders in a Mission that uses
+this special rule.
 
 At the start of the game, only the defender's sentries may move. The rest of
 the defender's army may only be activated once the alarm has been sounded.
@@ -89,10 +94,10 @@ There are five ways the alarm can be sounded.
    it. If a living sentry moves within spotting distance of a body, the alarm
    is raised.
 
-All other units in the defender's army also count as Sentries, except that they may
-not move. Once the alarm is raised, remove all sentry models and bodies from the
-table. They play no further part in the mission. The attacker's turn immediately
-ends once the alarm is raised.
+All other units in the defender's army also count as Sentries for the purposes of
+raising the alarm, except that they may not move. Once the alarm is raised,
+remove all sentry models and bodies from the table. They play no further part in
+the mission. The attacker's turn immediately ends once the alarm is raised.
 
 ## Sustained attack
 
@@ -102,7 +107,8 @@ This special rule only applies to the attacker in a scenario. Whenever
 a unit belonging to the attacker with the Line (X) rule is destroyed,
 that player may choose to place a new unit into reserves. The
 new unit must have exactly the same size, wargear options, and so on as
-the unit that was destroyed.
+the unit that was destroyed. The new unit may only be placed into normal
+Reserves, not Deep Strike Reserve or Aerial Reserve.
 
 If one of the attacker's units with Line (X) gains the Routed status
 and is also below 50% of its starting strength, the attacker may choose

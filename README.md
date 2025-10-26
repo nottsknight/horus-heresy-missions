@@ -8,13 +8,11 @@ These missions are released under a Creative Commons
 
 ## Contents
 
-### Additional rules
-
 - [Mission special rules](mission-special-rules.md)
-- [Mission secondary objectives](mission-secondary-objectives.md)
 
 ### Missions
 
+- [Meat Grinder](/missions/meat-grinder.md)
 - [Sabotage](missions/sabotage.md)
 - [Strongpoint Attack](/missions/strongpoint-attack.md)
 - [Take and Hold](missions/take-and-hold.md)

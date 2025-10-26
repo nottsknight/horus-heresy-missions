@@ -37,8 +37,9 @@ embarked.
 
 ## Mission Special Rules
 
-This mission uses the **Strongpoint Attack Mission**, **Obstacles**, **Sentries**,
-**Reserves**, and **Counter Offensive** Mission Special Rules.
+This mission uses the **Strongpoint Attack Mission**, **Command Bunker**,
+**Obstacles**, **Sentries**, **Reserves**, and **Counter Offensive**
+Mission Special Rules.
 
 ### Strongpoint Attack Mission
 
@@ -59,3 +60,31 @@ attacker. This has the following effects:
   anywhere on the table outside their deployment zone, and then deploy their army.
   After the defender has deployed, the attacker deploys anywhere on the table
   more than 18" away from the defender's deployment zone.
+
+### Command Bunker
+
+The following unit may be selected as part of the defender's army should they wish.
+
+**\[Fortification\] Command Bunker: 100pts**
+
+|                | Armour | HP  | BS  | Transport |
+| -------------- | ------ | --- | --- | --------- |
+| Command Bunker | 13     | 8   | -   | 10        |
+
+**Wargear**
+
+- None
+
+**Traits**
+
+- None
+
+**Special Rules**
+
+- Firing Point (5)
+
+**Type**
+
+- Fortification (Bunker)
+
+See the Firestorm Redoubt profile for the Firing Point special rule.
