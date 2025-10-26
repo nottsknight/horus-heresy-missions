@@ -33,6 +33,20 @@ D6 automatic wounds. Armour saves may be taken as normal against these wounds.
 In addition, a unit that is hit by a preliminary bombardment must pass a
 Cool check or become Pinned.
 
+## Random Game Length
+
+**Some missions may not last for a determinate amount of time.**
+
+A mission that uses this special rule does not automatically end after the
+fourth turn. Instead, at the end of the third turn and each turn thereafter,
+one player rolls a D6 and consults the table below. If the roll is higher than
+the listed score, the players play the next turn and roll again at the end of
+that turn. If the roll is lower, then the next turn is the last turn of the mission.
+
+| **Turn**  | 3   | 4   | 5   | 6+  |
+| --------- | --- | --- | --- | --- |
+| **Score** | 2+  | 4+  | 5+  | 6+  |
+
 ## Sentries
 
 **In certain missions the attacker must get as close to the objective

@@ -33,7 +33,7 @@ of the game, the defender wins.
 ## Mission Special Rules
 
 This Mission uses the **Demolition Charges**, **Sabotage Mission**,
-**Reserves**, and **Sentries** Mission Special Rules.
+**Random Game Length**, **Reserves**, and **Sentries** Mission Special Rules.
 
 ### Demolition Charges
 

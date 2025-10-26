@@ -34,8 +34,8 @@ counted; the 3" radius is not used. The chosen terrain piece is worth
 
 ## Mission special rules
 
-This mission uses the **Take and Hold Mission**, **Reserves**, and **Counter Offensive**
-Mission Special Rules.
+This mission uses the **Take and Hold Mission**, **Random Game Length**, **Reserves**,
+and **Counter Offensive** Mission Special Rules.
 
 ### Take and Hold Mission
 
