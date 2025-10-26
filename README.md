@@ -10,9 +10,10 @@ These missions are released under a Creative Commons
 
 ### Additional rules
 
-1. [Mission special rules](mission-special-rules.md)
-2. [Mission secondary objectives](mission-secondary-objectives.md)
+- [Mission special rules](mission-special-rules.md)
+- [Mission secondary objectives](mission-secondary-objectives.md)
 
 ### Missions
 
-1. [Take and Hold](missions/take-and-hold.md)
+- [Sabotage](missions/sabotage.md)
+- [Take and Hold](missions/take-and-hold.md)

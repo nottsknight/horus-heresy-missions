@@ -8,11 +8,11 @@ They must gain control of it a defend it from counter attack.
 
 The following Mission Objectives are used in this mission:
 
-**Primary Mission Objectives**
+### Primary Mission Objectives
 
 - Hold the Point
 
-**Secondary Mission Objectives**
+### Secondary Mission Objectives
 
 - Slay the Warlord (2)
 - Giant Killer (2)
@@ -24,6 +24,7 @@ have been determined but before deployment, the defender nominates one piece
 of terrain to be an objective. This should be a piece of Area Terrain or a
 Building so that both players may move units onto it.
 
+**Hold the Point**
 In the Victory Sub-Phase of each Player's turn as the Active Player they
 may score Victory Points if they control the chosen terrain piece. Control of
 the terrain piece is worked out in the same way as for Objective Markers,
@@ -33,10 +34,10 @@ counted; the 3" radius is not used. The chosen terrain piece is worth
 
 ## Mission special rules
 
-This mission uses the **Take and Hold**, **Reserves**, and **Counter Offensive**
+This mission uses the **Take and Hold Mission**, **Reserves**, and **Counter Offensive**
 Mission Special Rules.
 
-### Take and Hold
+### Take and Hold Mission
 
 In this mission, the attacker is launching an assault on a partially-defended
 location. This has the following effects:
