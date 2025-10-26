@@ -59,8 +59,10 @@ There are five ways the alarm can be sounded.
    it. If a living sentry moves within spotting distance of a body, the alarm
    is raised.
 
-Once the alarm is raised, remove all sentry models and bodies from the table. They
-play no further part in the mission.
+All other units in the defender's army also count as Sentries, except that they may
+not move. Once the alarm is raised, remove all sentry models and bodies from the
+table. They play no further part in the mission. The attacker's turn immediately
+ends once the alarm is raised.
 
 ## Sustained attack
 
