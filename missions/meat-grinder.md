@@ -13,11 +13,11 @@ The following Mission Objectives are used in this Mission:
 - Attacker: Annihilate the Enemy
 - Defender: Survive the Onslaught
 
-### Secondar Mission Objectives
+### Secondary Mission Objectives
 
 - None
 
-This mission does not use Obejctive Markers. The two Primary Mission
+This mission does not use Objective Markers. The two Primary Mission
 Objectives are the only way to score points.
 
 **Annihilate the Enemy**

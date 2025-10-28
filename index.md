@@ -16,6 +16,7 @@ These missions are released under a Creative Commons
 
 ### Missions
 
+- [Ambush](missions/ambush.md)
 - [Meat Grinder](/missions/meat-grinder.md)
 - [Sabotage](missions/sabotage.md)
 - [Strongpoint Attack](/missions/strongpoint-attack.md)
