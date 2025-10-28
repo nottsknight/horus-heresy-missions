@@ -1,6 +1,8 @@
 title: Horus Heresy Mission Pack
 timezone: Europe/London
 
+baseurl: /horus-heresy-missions
+
 defaults:
   - scope:
       path: "assets/img"

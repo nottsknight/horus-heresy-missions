@@ -62,9 +62,11 @@ vital piece of enemy equipment. This has the following rules:
   should be around 2" square. Players may give whatever terrain rules to it
   that they deem appropriate.
 - The Deploy Objectives step is skipped.
-- The Select Deployment Map step is skipped. In this mission, the defender
-  deploys within 8" of the installation, and the attacker deploys within 12"
-  of one of the short table edges.
+- The Select Deployment Map step is skipped. Instead, the following deployment
+  map is used:
+
+  ![Sabotage Deployment Map]({{site.baseurl}}/assets/img/sabotage-deployment.png)
+
 - During the Declare Mission Reserves step, the defender must place all units
   that do not have the Troops, Command, or High Command Battlefield Role
   in reserve.

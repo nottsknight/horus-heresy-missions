@@ -43,7 +43,7 @@ This has the following effects:
   chooses one short table edge to be the Escape Route. The deployment map is as follows,
   oriented using the chosen Escape Route:
 
-  ![Ambush Deployment Map](/assets/img/ambush-deployment.png)
+  ![Ambush Deployment Map]({{site.baseurl}}/assets/img/ambush-deployment.png)
 
 - During the Declare Mission Reserves step, the attacker must roll a D6 for each
   unit in their army. On a 1 or 2, that unit must be placed in Reserves. The
