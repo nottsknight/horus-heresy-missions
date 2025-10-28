@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Horus Heresy Mission Pack
 
 A collection of extra missions for Horus Heresy 3e, inspired by the missions in the
