@@ -3,6 +3,44 @@
 These special rules supplement the rules in the HH3e rulebook for added
 flavour in certain missions.
 
+## Hidden Deployment
+
+**One force has been able to deploy ahead of time, camoflaged from the enemy**
+
+Instead of deploying normally, an army that uses Hidden Deployment places
+numbered counters on the board in place of their units. The player has
+one counter for each unit in their army, including any units that have been
+placed in Reserves. When deploying their army, the player may place these
+counters anywhere the unit they represent could normally be deployed.
+
+### Hiding vehicles
+
+Vehicles must be deployed in or behind terrain features that could conceivably
+mask them. There is no way to hide a Leman Russ tank in the open.
+
+### Revealing hidden troops
+
+Once both armies have been deployed, the army using hidden deployment then
+reveals itself. Each marker is replaced with its respective unit: the first model
+must be placed on the marker itself, and the rest are deployed in coherency
+as normal.
+
+### Minefields and Booby traps
+
+If a marker represented a unit placed in Reserves, there is a chance it will
+be replaced with a Minefield or Booby Trap. The player rolls a D6 for each such
+marker: on a 4+, they may choose whether to replace it with a Minefield or a
+Booby Trap. Otherwise, the marker is just removed.
+
+**Minefields**
+Minefields are 8x4" pieces of Area Terrain that provide no cover, but which count
+as Dangerous Terrain.
+
+**Booby Traps**
+The player controlling a Booby Trap can activate it when an enemy unit moves within
+6" of the marker. A single model in the triggering unit takes an automatic hit at
+S8 AP2. A Booby Trap only works once, so is removed once triggered.
+
 ## Obstacles
 
 **Important locations can be protected with the use of razorwire and
